@@ -2,7 +2,7 @@
 
 - `sokoban_decision.enc.asp`
 
-    Original model from de ASP Competition 2011.
+    Original model from the ASP Competition 2011.
     
 - `sokoban_decision.enc.no_collapse.asp`
 
