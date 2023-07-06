@@ -1,0 +1,15 @@
+x : out of grid
+# : wall
+p : character with snow on the floor
+q : character
+1 : small ball
+2 : medium ball
+3 : small ball on top of a medium ball
+4 : large ball
+5 : small ball on top of a large ball
+6 : medium ball on top of a large ball
+7 : small ball on top of a medium ball on top of a large ball
+' : grass
+. : snow
+
+The grid is assumed to be rectangular and closed
